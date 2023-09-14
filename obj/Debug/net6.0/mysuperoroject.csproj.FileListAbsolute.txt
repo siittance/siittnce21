@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\bin\Debug\net6.0\mysuperoroject.exe
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\bin\Debug\net6.0\mysuperoroject.deps.json
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\bin\Debug\net6.0\mysuperoroject.runtimeconfig.json
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\bin\Debug\net6.0\mysuperoroject.dll
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\bin\Debug\net6.0\mysuperoroject.pdb
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.dll
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\refint\mysuperoroject.dll
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.pdb
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\mysuperoroject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\mysuperoroject\mysuperoroject\obj\Debug\net6.0\ref\mysuperoroject.dll
